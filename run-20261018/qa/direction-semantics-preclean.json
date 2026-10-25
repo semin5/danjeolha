@@ -1,0 +1,192 @@
+{
+  "approved": true,
+  "stage": "pre-clean geometry and direction gate",
+  "independent_reviewer": "/root/d_final_qa_b",
+  "directions": [
+    {
+      "direction": "000",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "UP",
+      "observed": "up",
+      "reason": "Raised chin and high irises; readable cardinal pitch.",
+      "horizontal_evidence": "Authorized right-facing graphic; no required lateral gaze.",
+      "vertical_evidence": "Raised chin and high irises."
+    },
+    {
+      "direction": "022.5",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "UP-RIGHT",
+      "observed": "up-right",
+      "reason": "Both axes read.",
+      "horizontal_evidence": "Right-projecting face and gaze.",
+      "vertical_evidence": "High irises and lifted chin."
+    },
+    {
+      "direction": "045",
+      "pass": true,
+      "verdict": "warning",
+      "expected": "UP-RIGHT",
+      "observed": "up-right",
+      "reason": "Similar to neighbors but correct quadrant.",
+      "horizontal_evidence": "Rightward face projection.",
+      "vertical_evidence": "Upward eye pitch."
+    },
+    {
+      "direction": "067.5",
+      "pass": true,
+      "verdict": "warning",
+      "expected": "UP-RIGHT",
+      "observed": "up-right",
+      "reason": "Subtle intermediate remains coherent.",
+      "horizontal_evidence": "Strong right-facing gaze.",
+      "vertical_evidence": "Slight upward pitch before leveling."
+    },
+    {
+      "direction": "090",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "RIGHT",
+      "observed": "right",
+      "reason": "Unambiguous cardinal.",
+      "horizontal_evidence": "Right-projecting nose/face and eye occlusion.",
+      "vertical_evidence": "Level gaze."
+    },
+    {
+      "direction": "112.5",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "DOWN-RIGHT",
+      "observed": "down-right",
+      "reason": "Coherent start of downward arc.",
+      "horizontal_evidence": "Rightward face projection persists.",
+      "vertical_evidence": "Lowered head and increased bang coverage."
+    },
+    {
+      "direction": "135",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "DOWN-RIGHT",
+      "observed": "down-right",
+      "reason": "Both axes read.",
+      "horizontal_evidence": "Rightward face and gaze.",
+      "vertical_evidence": "Lowered irises and tucked chin."
+    },
+    {
+      "direction": "157.5",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "DOWN-RIGHT",
+      "observed": "down-right",
+      "reason": "Strong downward pitch retains right cue.",
+      "horizontal_evidence": "Face projects right.",
+      "vertical_evidence": "Deepest row9 bow and narrowed eye aperture."
+    },
+    {
+      "direction": "180",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "DOWN",
+      "observed": "down",
+      "reason": "Cardinal downward pitch is clear.",
+      "horizontal_evidence": "Authorized left-facing graphic.",
+      "vertical_evidence": "Deep bow, lowered irises and chin."
+    },
+    {
+      "direction": "202.5",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "DOWN-LEFT",
+      "observed": "down-left",
+      "reason": "Both axes read.",
+      "horizontal_evidence": "Leftward nose/face projection.",
+      "vertical_evidence": "Bowed head and low gaze."
+    },
+    {
+      "direction": "225",
+      "pass": true,
+      "verdict": "warning",
+      "expected": "DOWN-LEFT",
+      "observed": "down-left",
+      "reason": "Close to preceding pose but correct quadrant.",
+      "horizontal_evidence": "Left-facing eyes and face.",
+      "vertical_evidence": "Downward pitch persists."
+    },
+    {
+      "direction": "247.5",
+      "pass": true,
+      "verdict": "warning",
+      "expected": "DOWN-LEFT",
+      "observed": "down-left",
+      "reason": "Downward cue is subtle before level-left transition.",
+      "horizontal_evidence": "Clear leftward face projection.",
+      "vertical_evidence": "Chin remains tucked; eyes below level-left pose."
+    },
+    {
+      "direction": "270",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "LEFT",
+      "observed": "left",
+      "reason": "Unambiguous cardinal.",
+      "horizontal_evidence": "Left-projecting nose/face with near/far-eye occlusion.",
+      "vertical_evidence": "Level gaze."
+    },
+    {
+      "direction": "292.5",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "UP-LEFT",
+      "observed": "up-left",
+      "reason": "Both axes read.",
+      "horizontal_evidence": "Leftward face projection.",
+      "vertical_evidence": "Raised irises and chin."
+    },
+    {
+      "direction": "315",
+      "pass": true,
+      "verdict": "pass",
+      "expected": "UP-LEFT",
+      "observed": "up-left",
+      "reason": "Clear upward pitch retains left cue.",
+      "horizontal_evidence": "Face projects left.",
+      "vertical_evidence": "High irises and pronounced lifted chin."
+    },
+    {
+      "direction": "337.5",
+      "pass": true,
+      "verdict": "warning",
+      "expected": "UP-LEFT",
+      "observed": "up-left",
+      "reason": "Similar to315 but coherent at loop boundary.",
+      "horizontal_evidence": "Leftward face projection persists.",
+      "vertical_evidence": "Strong upward pitch."
+    }
+  ],
+  "geometry_evidence": {
+    "independent_encoded_webp_check": true,
+    "neutral_inclusive_foot_center_x": 84,
+    "all16_foot_center_x_range": [
+      83.5,
+      84.5
+    ],
+    "all16_foot_bottom": 202,
+    "all16_exact_translated_alpha_match": true,
+    "all16_exact_translated_visible_rgb_match": true,
+    "combined_safe_bounds": [
+      12,
+      28,
+      161,
+      204
+    ],
+    "clipping_or_pixel_loss": false,
+    "practical_scale_and_identity": "Coherent with neutral; no conspicuous size pop."
+  },
+  "continuity_resolution": [
+    "157.5→180: authorized facing/hair reversal; fixed feet, consistent scale, coherent downward pitch.",
+    "337.5→000: authorized facing/hair reversal; fixed feet and coherent upward pitch.",
+    "247.5→270: sharper head/eye transition, follows down-left→level-left without reversal or body translation; warning accepted."
+  ],
+  "limitations": "Chroma deferred. Reviewed native cells and labeled decoded ordered-loop proof; no live GIF playback claimed."
+}

@@ -1,0 +1,1001 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21121,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 359
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21116,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 367
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21050,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 347
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21167,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 407
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21113,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 319
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21068,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 360
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19294,
+          "bbox": [
+            12,
+            8,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 417
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19387,
+          "bbox": [
+            12,
+            8,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 496
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18423,
+          "bbox": [
+            13,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 424
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18318,
+          "bbox": [
+            13,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 436
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18463,
+          "bbox": [
+            13,
+            8,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 453
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18228,
+          "bbox": [
+            14,
+            5,
+            178,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 404
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18280,
+          "bbox": [
+            13,
+            6,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 429
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18687,
+          "bbox": [
+            12,
+            7,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 477
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16370,
+          "bbox": [
+            17,
+            7,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 420
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15673,
+          "bbox": [
+            18,
+            6,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 401
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15387,
+          "bbox": [
+            20,
+            7,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 331
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15063,
+          "bbox": [
+            19,
+            5,
+            171,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 351
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16356,
+          "bbox": [
+            18,
+            7,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 421
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15574,
+          "bbox": [
+            19,
+            6,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 374
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15585,
+          "bbox": [
+            19,
+            6,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 403
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16611,
+          "bbox": [
+            17,
+            7,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 443
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21731,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 296
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21993,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 251
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21994,
+          "bbox": [
+            17,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 278
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21778,
+          "bbox": [
+            17,
+            6,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 287
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12707,
+          "bbox": [
+            25,
+            61,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 128
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13247,
+          "bbox": [
+            27,
+            33,
+            165,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 162
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13335,
+          "bbox": [
+            27,
+            6,
+            164,
+            158
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13844,
+          "bbox": [
+            25,
+            38,
+            167,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12807,
+          "bbox": [
+            30,
+            60,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21185,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 469
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21076,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 489
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21650,
+          "bbox": [
+            12,
+            6,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 456
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20856,
+          "bbox": [
+            13,
+            8,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 515
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20648,
+          "bbox": [
+            13,
+            10,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 485
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20871,
+          "bbox": [
+            14,
+            7,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 518
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21083,
+          "bbox": [
+            16,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 426
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21186,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 438
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20180,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 349
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20587,
+          "bbox": [
+            18,
+            5,
+            174,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 293
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20158,
+          "bbox": [
+            18,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 378
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20101,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 336
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20233,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 377
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19753,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 314
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20820,
+          "bbox": [
+            21,
+            6,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 378
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20271,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 434
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19965,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 476
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20898,
+          "bbox": [
+            21,
+            6,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 342
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20516,
+          "bbox": [
+            21,
+            5,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 395
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20383,
+          "bbox": [
+            21,
+            5,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 375
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19599,
+          "bbox": [
+            16,
+            8,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 326
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19570,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 297
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19711,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 337
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19819,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 413
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19760,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 301
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\run-20261018\\qa\\stable-experiment\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19683,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 296
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "approved": true,
+  "stage": "final",
+  "reviewer": "/root/d_final_qa_b",
+  "final_sha256": "5b4f12c6a7946845b576df46740c128dab885ee3623f97b3af076ae1cca0d91d",
+  "directions_unchanged": true,
+  "standard9approval": {
+    "approved": true,
+    "idle": "Calm blink and subtle variation.",
+    "running-right": "Right-facing alternating cadence.",
+    "running-left": "Left-facing alternating cadence.",
+    "waving": "Attached hand rises and returns.",
+    "jumping": "Clear lift, apex, descent and landing.",
+    "failed": "Face-covering bow and recovery.",
+    "waiting": "Expectant clasp/open-hand gestures.",
+    "running": "Thinking/scanning gestures with stationary feet.",
+    "review": "Inspection lean, gaze changes and blink."
+  },
+  "geometry": {
+    "approved": true,
+    "dimensions": [
+      1536,
+      2288
+    ],
+    "mode": "RGBA",
+    "all_atlas_alpha_equals_registered_preclean": true,
+    "neutral_foot_center_x": 84,
+    "look_foot_center_x_range": [
+      83.5,
+      84.5
+    ],
+    "all16_foot_bottom": 202,
+    "clipping_or_registration_pop": false,
+    "scale_and_identity": "Consistent with neutral.",
+    "r0c6": "Intentional neutralLookFrame slot, separate from six-frame idle."
+  },
+  "continuity": {
+    "approved": true,
+    "157.5_to_180": "Authorized facing/hair reversal; fixed feet and coherent downward pitch.",
+    "337.5_to_000": "Authorized facing/hair reversal; fixed feet and coherent upward pitch.",
+    "247.5_to_270": "Accepted sharper down-left-to-level-left head transition, no reversal/body translation."
+  },
+  "accepted_direction_warnings": {
+    "045": "One reviewer vertical ambiguous, two up; labeled review confirms up-right.",
+    "292.5": "One reviewer vertical ambiguous, two up; labeled review confirms up-left."
+  },
+  "cardinal_landmarks_local_pixels": {
+    "180": {
+      "coordinate_system": "local 192x208; approximate ±3–5px",
+      "head_center": [
+        78,
+        83
+      ],
+      "pupils": [
+        [
+          55,
+          120
+        ],
+        [
+          88,
+          118
+        ]
+      ],
+      "chin": [
+        77,
+        131
+      ],
+      "evidence": "Low pupils/apertures and tucked chin show DOWN; left-facing graphic is authorized by B."
+    },
+    "270": {
+      "coordinate_system": "local 192x208; approximate ±3–5px",
+      "head_center": [
+        88,
+        76
+      ],
+      "pupils": [
+        [
+          47,
+          100
+        ],
+        [
+          73,
+          99
+        ]
+      ],
+      "left_face_nose_contour": [
+        46,
+        111
+      ],
+      "evidence": "Facial surface and pupils project screen-left; approximately level eye line."
+    },
+    "000": {
+      "coordinate_system": "local 192x208; approximate ±3–5px",
+      "head_center": [
+        78,
+        76
+      ],
+      "pupils": [
+        [
+          80,
+          82
+        ],
+        [
+          115,
+          81
+        ]
+      ],
+      "evidence": "Pupils high in apertures with lifted chin; right-facing graphic is authorized by B."
+    },
+    "090": {
+      "coordinate_system": "local 192x208; approximate ±3–5px",
+      "head_center": [
+        80,
+        76
+      ],
+      "pupils": [
+        [
+          93,
+          98
+        ],
+        [
+          119,
+          98
+        ]
+      ],
+      "right_face_nose_contour": [
+        124,
+        108
+      ],
+      "evidence": "Facial surface and pupils project screen-right; level eye line."
+    }
+  },
+  "timing_and_loop_evidence": {
+    "all_gif_loop_values": 0,
+    "standard_periods_ms": {
+      "idle": 1100,
+      "running-right": 1060,
+      "running-left": 1060,
+      "waving": 700,
+      "jumping": 840,
+      "failed": 1220,
+      "waiting": 1010,
+      "running": 820,
+      "review": 1030
+    },
+    "look_loop": "16 ordered frames,180ms each,2880ms total.",
+    "idle_jump_idle": "17 frames,3040ms; readable departure and return."
+  },
+  "qa_artifact_evidence": [
+    "final/validation-extended.json",
+    "qa/chroma-despill-extended.json",
+    "qa/direction-blind-validation.json",
+    "qa/look-continuity.json",
+    "qa/previews/qa-decoded-motion-1.png",
+    "qa/previews/qa-decoded-motion-2.png",
+    "qa/previews/qa-decoded-motion-3.png",
+    "qa/previews/qa-decoded-look.png",
+    "qa/previews/qa-decoded-idle-jump.png",
+    "qa/previews/qa-seams-2x.png",
+    "qa/previews/qa-gif-metadata.json"
+  ],
+  "review_limit": "Decoded ordered GIF frame proofs and timing metadata reviewed; no live GIF playback claimed."
+}

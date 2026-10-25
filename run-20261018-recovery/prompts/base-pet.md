@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet 단절하.
+
+Pet identity: Match the supplied MapleStory avatar exactly: enormous head and tiny body, cool silvery-lavender bangs with a long wavy tied side ponytail on viewer RIGHT, large blue-gray eyes and tiny smile, navy long-sleeved tunic with one large yellow star centered on chest, yellow collar and cuffs and hem trim, tiny dark shorts, bare pale legs and feet. No new shoes, props or accessories. Preserve original pixel-game character charm..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `pixel`: Pixel-art-adjacent digital mascot with a chunky silhouette, simple dark outline, limited palette, flat cel shading, and visible stepped edges. User style notes: Clean MapleStory-like high-quality pixel sprite with crisp intentional stair-step outlines and compact palette; do not turn into smooth anime illustration or 3D. Keep same hair tie and clothing in every pose..
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

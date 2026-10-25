@@ -1,0 +1,18 @@
+# 단절하 look mechanics
+
+The original avatar is a tiny MapleStory humanoid with an enormous separate head, big blue-gray eyes and long wavy silver-lavender side ponytail. Keep feet, legs, torso, yellow chest star and tunic hem anchored. Do not rotate, skew or bend the whole sprite. Eyes lead, eyelids/eyebrows participate, then head/neck yaw and pitch subtly follow. Retain the original eye aperture, iris, highlights, cheek spacing and face identity. No pasted replacement eyes or rubber-face distortion.
+
+USER CHOICE B (explicit message B, recorded in qa/user-style-choice.json) authorizes MapleStory-like facing-dependent hairstyle reversal. Use two coherent drawn facing families: row9 RIGHT-facing attention has ponytail/clip image-LEFT and long fringe image-RIGHT; row10 LEFT-facing attention has the original ponytail/clip image-RIGHT and long fringe image-LEFT. This approved graphic facing change may occur at vertical-axis boundaries 157.5→180 and 337.5→000. It is intentional 2D game-sprite facing behavior, not an accidental identity failure. Do not attempt more fixed-side hair restoration. Preserve the same silver-lavender wave, tiny yellow clip, face design, outfit and volumes in both mirrored-facing families. Feet/base centers and baseline remain registered, even when foot stance/facing graphic changes. No scale jump, translation, clipping, new prop or wrong gaze is authorized.
+
+Cardinal families in SCREEN coordinates:
+- 000 up: chin raised, irises high within the original eye apertures, upper lids/brows lift, face pitches up, no lateral yaw. Not neutral.
+- 090 screen-right: unmistakable right-projecting face/nose/near eye with natural far-eye occlusion, not the rejected ambiguous frontal eye-only pose. User B allows its facing-dependent hair reversal, so the selected coherent row9 has ponytail image-left. Approved cardinal anchors supply gaze meaning; completed row9 supplies the allowed mirrored-facing construction.
+- 180 down: head bows, chin tucks, irises visibly lowered, upper lids/bangs cover more of eye tops; not neutral or sad-reaction animation.
+- 270 screen-left: clear leftward yaw matching the approved original anchor, nose and iris left of head center, opposite eye/cheek occlusion to 090. Body and feet remain anchored. Must not read as front or right.
+
+Motion budget: eye/lid/head pitch follows the clockwise gaze arc within each coherent facing family. Row9 yaw progresses toward right then returns toward down, pitch up→level→down; row10 yaw toward left then returns toward up, pitch down→level→up. The explicit user-approved 2D facing flip at the two vertical-axis boundaries is the only intended discontinuity. All other neighboring poses must preserve registration/scale and avoid reversal, snapping or hairstyle drift within a family. Positive yaw SCREEN-RIGHT, positive pitch UP. No whole-sprite affine rotation/skew or rubber-face warping.
+
+Row 9: up, up-right, up-right, up-right, right, down-right, down-right, down-right.
+Row 10: down, down-left, down-left, down-left, left, up-left, up-left, up-left. In row 10, every non-down pose has a visible LEFT cue, including the last two looking up-left; do not let the last poses drift to right/front.
+
+All intermediate poses retain both intended axes; near-vertical lateral cues may be subtler, but no wrong quadrant or reversal. Row9 final down-right is one step before row10 down; row10 final up-left one step before row9 up. At those boundaries the user explicitly accepts facing-dependent hairstyle/stance graphic reversal; still require pinned base center, baseline, consistent practical size and readable vertical gaze. No detached effects, labels, shadows or visible guides.

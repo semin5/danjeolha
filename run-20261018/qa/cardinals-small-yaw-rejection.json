@@ -1,0 +1,1 @@
+{"approved":false,"reason":"Restrained-yaw family preserves hair but makes RIGHT/LEFT ambiguous and left iris direction incorrect. Original unambiguous cardinal families restored. Strategy is continuous head-and-hair occlusion interpolation, not weakening gaze semantics."}

@@ -1,0 +1,91 @@
+{
+  "ok": true,
+  "status": "complete",
+  "pet_id": "danjeolha",
+  "display_name": "단절하",
+  "spriteVersionNumber": 2,
+  "run_dir": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018",
+  "package": "C:/Users/semin5/.codex/pets/danjeolha",
+  "spritesheet": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/final/spritesheet-extended.webp",
+  "sha256": "5b4f12c6a7946845b576df46740c128dab885ee3623f97b3af076ae1cca0d91d",
+  "validation": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/final/validation-extended.json",
+  "installed_validation": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/installed-validation.json",
+  "chroma_despill": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/chroma-despill-extended.json",
+  "chroma_despill_invocations": 1,
+  "contact_sheet": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/contact-sheet-extended.png",
+  "direction_sheet": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/look-directions.png",
+  "direction_semantics": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/direction-semantics.json",
+  "blind_direction_validation": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/direction-blind-validation.json",
+  "blind_review_resolution": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/blind-review-resolution.json",
+  "continuity": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/look-continuity.json",
+  "review": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/review.json",
+  "final_visual_review": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/final-visual-review.json",
+  "preview": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/previews/all-states.gif",
+  "look_preview": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/previews/look-loop.gif",
+  "counts": {
+    "standard_states": 9,
+    "standard_animation_frames": 57,
+    "look_directions": 16,
+    "neutral_look_cells": 1,
+    "total_used_cells": 74
+  },
+  "user_style_choice": {
+    "choice": "B",
+    "scope": "16방향 시선; 보는 방향에 따른 머리카락 좌우 반전 허용",
+    "proof": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/user-style-choice.json"
+  },
+  "generation": {
+    "visual_generation": "built-in imagegen only",
+    "style": "reference-grounded pixel-adjacent chibi",
+    "coherent_look_rows": 2,
+    "individual_repair_cells_packaged": false,
+    "source_manifest": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018-recovery/imagegen-jobs.json"
+  },
+  "quality": {
+    "deterministic_atlas_pass": true,
+    "installed_atlas_pass": true,
+    "all9_states_independently_approved": true,
+    "all16_direction_semantics_independently_approved": true,
+    "isolated_blind_reviewers": 3,
+    "blind_pair_count": 14,
+    "strict_majority_cells_passed": 28,
+    "cardinal_pairs_passed": true,
+    "alpha_holes": 0,
+    "transparent_rgb_residue_pixels": 0,
+    "registration_clipping_or_pixel_loss": false,
+    "foot_centers_x": [
+      83.5,
+      84.5
+    ],
+    "foot_baseline": 202,
+    "review_method": "Decoded ordered GIF frame proofs plus timing metadata; no live playback claimed."
+  },
+  "accepted_warnings": [
+    "045 and292.5: one blind reviewer vertical ambiguity; two classified up, labeled ordered review confirms intended quadrants.",
+    "B-authorized facing/hair reversal at157.5→180 and337.5→000. Foot position fixed.",
+    "247.5→270 sharper but coherent pitch transition, no reversal or body translation.",
+    "Approved stable-slot extraction preserves jump arc; eight other states uniformly reframed8/9 for consistent head size."
+  ],
+  "installation": {
+    "installed": true,
+    "automatically_selected": false,
+    "existing_pets_unchanged": true,
+    "receipt": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/install-receipt.json"
+  },
+  "timing": {
+    "started_at": "2026-10-18T10:27:00Z",
+    "user_B_recorded_at": "2026-10-18T11:38:30Z",
+    "completed_at": "2026-10-18T11:57:18Z",
+    "elapsed_wall_seconds": 5418,
+    "includes_user_choice_pause": true
+  },
+  "cleanup": {
+    "ok": true,
+    "method": "Recoverable move of generated intermediates only",
+    "deleted": false,
+    "intermediate_entries_moved": 25,
+    "recovery_directory": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018-recovery",
+    "original_user_image_untouched": true,
+    "final_artifacts_and_QA_preserved": true
+  }
+}

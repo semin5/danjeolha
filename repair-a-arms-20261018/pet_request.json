@@ -1,0 +1,28 @@
+{
+  "pet_id": "danjeolha",
+  "display_name": "단절하",
+  "sprite_version_number": 1,
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "user_choice": "A",
+  "look_direction_count": 0,
+  "description": "은보라색 긴 웨이브 머리와 큰 청회색 눈, 노란 별이 있는 네이비 옷을 입은 메이플 캐릭터 단절하.",
+  "repair_scope": "Only six-frame thinking row anatomy, preserve other eight state rows exactly.",
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ]
+  },
+  "primary_generation_skill": "imagegen",
+  "user_format_override": "Explicit choiceA: standard nine-state v1, no pointer-follow look cells.",
+  "previous_version": "backup/pet.json and backup/spritesheet.webp"
+}

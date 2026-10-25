@@ -1,0 +1,15 @@
+{
+  "approved":true,
+  "basis":"User B explicitly accepts facing-dependent hairstyle reversal; source attempt6 now eligible under that changed style constraint.",
+  "directions":[
+    {"direction":"000","expected":"up","verdict":"pass","reason":"Chin and irises raised, clear upward head/eye pitch; selected right-facing game-sprite family retained as user-approved style."},
+    {"direction":"022.5","expected":"up-right","verdict":"warning","reason":"Face/nose point right with high irises and raised chin; close to previous up pose but correct broad quadrant."},
+    {"direction":"045","expected":"up-right","verdict":"pass","reason":"Right-projecting face and upward eyes/chin combine both axes."},
+    {"direction":"067.5","expected":"up-right","verdict":"warning","reason":"Right-facing face clear; slight upper eye/chin pitch carries remaining up component, subtle compared with right cardinal."},
+    {"direction":"090","expected":"right","verdict":"pass","reason":"Face/nose/near-eye surface project image-right with far-eye occlusion; horizontal direction unmistakable."},
+    {"direction":"112.5","expected":"down-right","verdict":"pass","reason":"Rightward face remains, lids/chin begin downward pitch."},
+    {"direction":"135","expected":"down-right","verdict":"pass","reason":"Right nose/face with lowered irises, descending lids and bowed chin."},
+    {"direction":"157.5","expected":"down-right","verdict":"warning","reason":"Strong down bow, residual rightward face/nose is near-vertical subtle but not wrong quadrant."}
+  ],
+  "continuity_review":"No intra-family hair reversal, scale pop, clipping or body translation visible in native registered row. Shared foot-anchored normalization keeps base registered. Near-duplicate upper poses accepted as subtle gaze warnings. Independent full-loop and mandatory blind review still pending."
+}

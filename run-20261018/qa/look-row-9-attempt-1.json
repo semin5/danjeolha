@@ -1,0 +1,9 @@
+{
+  "approved":false,
+  "packaging_eligible":false,
+  "source":"C:/Users/semin5/.codex/generated_images/01a14e9c-a273-7cf3-a74d-2dccb52aa280/exec-3bc3d1cc-886b-4ca7-b7ca-6262bc86f6d1.png",
+  "deterministic_registration_passed":true,
+  "failure":"Conspicuous ponytail side jump between source poses 4 and 5; tail remains left-projected at 157.5, threatening 180 boundary continuity.",
+  "root_condition":"090 cardinal family reverses hanging ponytail relative to neutral/up/down/left anchors.",
+  "strategy_change":"Repair only non-packaging cardinal 090 with head/eyes right but lower ponytail anchored viewer-right, then resynthesize the complete coherent row. No final-cell splicing."
+}

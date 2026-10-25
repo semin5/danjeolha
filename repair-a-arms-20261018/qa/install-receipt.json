@@ -1,0 +1,13 @@
+{
+  "installed": true,
+  "automatically_selected": false,
+  "existing_id_unchanged": true,
+  "installed_at": "2026-10-18T12:08:01Z",
+  "receipt": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/install-receipt.json",
+  "path": "C:/Users/semin5/.codex/pets/danjeolha",
+  "spriteVersionNumber": 1,
+  "sha256": "FE87A44CB05E54839FBAB8D33EC0FBFDA1DB4ED63DAB985E3B7444F6B3191019",
+  "otherPetsUnchanged": true,
+  "oldVersionRecoverable": true,
+  "backup": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/backup"
+}

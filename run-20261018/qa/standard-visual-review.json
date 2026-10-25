@@ -1,0 +1,19 @@
+{
+  "approved_all9": true,
+  "reviewer": "/root/d_std_qa",
+  "states": [
+    {"state":"idle","verdict":"pass","reason":"Six frames retain blink and consistent head size."},
+    {"state":"running-right","verdict":"pass","reason":"Eight frames face right with alternating gait."},
+    {"state":"running-left","verdict":"pass","reason":"Eight frames face left with alternating gait; independently generated to preserve asymmetric ponytail."},
+    {"state":"waving","verdict":"pass","reason":"Same raised hand and return to neutral."},
+    {"state":"jumping","verdict":"pass","reason":"Squat, rise, apex, descent, landing; apex unclipped."},
+    {"state":"failed","verdict":"pass","reason":"Distinct distressed reaction and recovery."},
+    {"state":"waiting","verdict":"pass","reason":"Expectant head/hand pose sequence."},
+    {"state":"running","verdict":"pass","reason":"Thinking hand near face, planted feet, no foot-running."},
+    {"state":"review","verdict":"pass","reason":"Distinct bow/acknowledgment poses."}
+  ],
+  "framing_warning_resolution":"Independent native-size review compared auto and stable-slot extraction. Stable slots preserve the jump arc. Uniform 8/9 framing of eight other states matches head size without cropping apex. Nine stable-slot warnings accepted after explicit review.",
+  "gif_metadata_checked":true,
+  "gif_live_playback_claimed":false,
+  "timing_matches_contract":true
+}

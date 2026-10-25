@@ -1,0 +1,7 @@
+{
+  "choice":"B",
+  "user_message":"B",
+  "selected_option":"16방향 시선 포함: 보는 방향에 따라 머리카락 좌우 반전 허용",
+  "authorization":"Explicit human approval of facing-dependent hairstyle reversal. This overrides the earlier inferred fixed-image-right ponytail constraint, not gaze direction, clipping, alpha, scale or other QA gates.",
+  "recorded_at_utc":"2026-10-18T11:38:30Z"
+}

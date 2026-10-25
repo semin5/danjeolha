@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "status": "complete",
+  "request": "B방식으로 돌려줘",
+  "pet_id": "danjeolha",
+  "display_name": "단절하",
+  "mode": "B",
+  "spriteVersionNumber": 2,
+  "package": "C:/Users/semin5/.codex/pets/danjeolha",
+  "spritesheet": "C:/Users/semin5/IdeaProjects/danjeolha-pet/restore-b-20261018/final/spritesheet.webp",
+  "sha256": "755b94fb6f3bf9e6ef0debda6310d357f5c42e7297cab6044261ee19a175b252",
+  "counts": {
+    "standard_states": 9,
+    "look_directions": 16,
+    "thinking_frames": 6
+  },
+  "thinking_arm_fix_preserved": true,
+  "all16_look_cells_exactly_restored": true,
+  "other_B_rows_unchanged": true,
+  "new_generation": false,
+  "new_resampling": false,
+  "new_chroma_cleanup": false,
+  "validation": "C:/Users/semin5/IdeaProjects/danjeolha-pet/restore-b-20261018/final/validation.json",
+  "installed_validation": "C:/Users/semin5/IdeaProjects/danjeolha-pet/restore-b-20261018/qa/installed-validation.json",
+  "restore_proof": "C:/Users/semin5/IdeaProjects/danjeolha-pet/restore-b-20261018/qa/restore-proof.json",
+  "independent_review": "C:/Users/semin5/IdeaProjects/danjeolha-pet/restore-b-20261018/qa/independent-restore-review.json",
+  "prior_QA_reused_only_for_exactly_preserved_scopes": true,
+  "backup_A": "C:/Users/semin5/IdeaProjects/danjeolha-pet/restore-b-20261018/backup-A",
+  "backup_A_recoverable": true,
+  "other_pets_unchanged": true,
+  "installed": true,
+  "automatically_selected": false,
+  "completed_at_utc": "2026-10-18T12:16:08Z",
+  "previews": {
+    "thinking": "C:/Users/semin5/IdeaProjects/danjeolha-pet/restore-b-20261018/qa/previews/running.gif",
+    "look": "C:/Users/semin5/IdeaProjects/danjeolha-pet/restore-b-20261018/qa/previews/look-loop.gif",
+    "all_states": "C:/Users/semin5/IdeaProjects/danjeolha-pet/restore-b-20261018/qa/previews/all-states.gif"
+  }
+}

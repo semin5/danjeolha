@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "mode": "B",
+  "spriteVersionNumber": 2,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "look_directions": 16,
+  "all16_look_cells_exact_RGBA_match_original_B": true,
+  "all_other_B_rows_exact_RGBA_match": true,
+  "thinking_row_exact_RGBA_match_repaired_A": true,
+  "thinking_frames": 6,
+  "new_generation": false,
+  "new_resampling": false,
+  "new_chroma_cleanup": false,
+  "source_B": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\backup\\spritesheet.webp",
+  "source_A": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\restore-b-20261018\\backup-A\\spritesheet.webp",
+  "final_sha256": "755b94fb6f3bf9e6ef0debda6310d357f5c42e7297cab6044261ee19a175b252",
+  "prior_direction_QA": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018/qa/direction-blind-validation.json",
+  "prior_arm_QA": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/final-visual-review.json"
+}

@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "method": "Recoverable move of generated intermediates only",
+  "deleted": false,
+  "intermediate_entries_moved": 25,
+  "recovery_directory": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018-recovery",
+  "original_user_image_untouched": true,
+  "final_artifacts_and_QA_preserved": true
+}

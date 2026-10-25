@@ -1,0 +1,15 @@
+{
+  "failure_type": "deterministic_registration",
+  "evidence": "Initial registered gaze row foot centroids (last six occupied rows) were 93.51,94.28,95.47,96.13,112.61,112.64,114.07,114.03 despite intended planted feet.",
+  "root_condition": "Bundled lower-body centroid uses the lowest 28% of the silhouette, including the long moving ponytail; hair movement shifts the registration anchor.",
+  "correction": "Use the bundled assembler unchanged except a wrapper supplies lowest 4.5% of occupied silhouette as foot anchor. Shared source-row scale, crop recovery, alpha handling and all edge thresholds remain unchanged. Apply same anchor to neutral and both gaze rows.",
+  "artwork_changes": "None. This corrects existing-pixel registration, not gaze or hair artwork. Source hair continuity still needs visual approval.",
+  "final_resolution": {
+    "preliminary_band_insufficient": true,
+    "reason": "Independent native review found ponytail still contaminated lowest4.5% centroid; right-family feet shifted28–31px.",
+    "replacement": "Largest alpha>128 connected leg/foot component below local y180, independently identified; apply whole-cell integer translations only.",
+    "proof": "qa/foot-alignment-final.json",
+    "independent_approval": "qa/direction-semantics-preclean.json",
+    "pixel_artwork_unchanged": true
+  }
+}

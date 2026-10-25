@@ -1,0 +1,12 @@
+{
+  "approved":true,
+  "blocking_review":null,
+  "reviewed_at_native_size":true,
+  "directions":[
+    {"direction":"000","verdict":"pass","reason":"Chin lifted, face pitches up; blue irises sit at upper eye apertures, no horizontal yaw."},
+    {"direction":"090","verdict":"pass","reason":"Final three-quarter face/nose/near eye project image-right, far eye partly occluded. Independent native-size unlabeled probe passed this face construction as screen-right. Final accessory-only repair preserves direction and right-draped ponytail while restoring tiny clip on image-right."},
+    {"direction":"180","verdict":"pass","reason":"Chin tucked, bangs/lids project over eyes, irises lowered below lid line; head clearly bows downward."},
+    {"direction":"270","verdict":"pass","reason":"Face and nose project image-left; iris and pupil turn left with opposite cheek/eye occlusion to 090."}
+  ],
+  "notes":"090 now uses the successful three-quarter face plus accessory correction in cardinal-090-final-repair.json. Eye-only attempt was rejected after blind ambiguity; full-profile ponytail reversal rejected. All four final anchors have clear gaze and same image-right hanging ponytail. Final independent full-loop review and three blind reviewers remain mandatory."
+}

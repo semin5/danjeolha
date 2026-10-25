@@ -1,0 +1,15 @@
+{
+  "pet_id": "danjeolha",
+  "display_name": "단절하",
+  "user_request": "A 방식으로 바꿔주고 생각하는 모션때 팔이 안보여",
+  "choice": "A",
+  "target": "기존에 제시한 A: 원본 머리 방향 유지, 16방향 포인터 시선 제외, 기본 9동작",
+  "spriteVersionNumber": 1,
+  "explicit_user_override": "The user selects the previously offered nine-state A format. This existing-pet downgrade overrides hatch-pet's default v2-only creation format, not image generation or standard animation QA.",
+  "repair_scope": "Generate only the complete six-frame thinking row; preserve the other eight approved state rows exactly.",
+  "chroma_key": "#00FF00",
+  "previous_version_backup": "backup/pet.json and backup/spritesheet.webp",
+  "status": "complete",
+  "progress": ["A option confirmed", "thinking arms repaired and independently approved", "nine-state v1 installed and verified"],
+  "summary": "qa/run-summary.json"
+}

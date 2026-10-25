@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "name": "단절하",
+  "user_choice": "B",
+  "standard_rows_approved": 9,
+  "phase": "installed_and_verified",
+  "look_row9_registered_and_prelim_approved": true,
+  "current_blocker": null,
+  "next": "Register/review row10, independent full visual QA and three blind reviewers, one finaldespill, finalvalidation and install.",
+  "installed": true,
+  "chroma_cleanup_invocations": 0,
+  "existing_pets_untouched": true,
+  "row10_approved": true,
+  "look_geometry_approved": true,
+  "chroma_despill_invocations": 1,
+  "completed_at": "2026-10-18T11:57:18Z",
+  "summary": "qa/run-summary.json",
+  "cleanup": {
+    "ok": true,
+    "method": "Recoverable move of generated intermediates only",
+    "deleted": false,
+    "intermediate_entries_moved": 25,
+    "recovery_directory": "C:/Users/semin5/IdeaProjects/danjeolha-pet/run-20261018-recovery",
+    "original_user_image_untouched": true,
+    "final_artifacts_and_QA_preserved": true
+  }
+}

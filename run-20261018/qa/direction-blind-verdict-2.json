@@ -1,0 +1,96 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's nose/face/eyes project left; B right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A leftward profile/eyes; B rightward profile/eyes."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A facial features right; B nose/eyes left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose/eye line left; B right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Lowered heads retain A-left/B-right profile."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A eyes/nose right; B lowered face/eyes left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered nose left; B nose/eyes right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A tucked chin/narrowed eyes down; B lifted chin/open eyes up."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A elevated chin/upward eyes; B lowered chin/downward eyes."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A head lowered/heavy lids; B nearly level with unclear vertical gaze."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A slightly lowered/tucked chin; B lifted face/open eyes slightly up."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A face down/narrowed eyes; B nose/chin/eyes up."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A raised chin/upward face; B tucked chin/downward eyes."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A head/eyes down; B clearly left but vertical gaze near-level/unclear."
+    }
+  ],
+  "reviewer": "/root/d_blind_final_2",
+  "isolated": true,
+  "input_files": [
+    "direction-blind-batch-1.png",
+    "direction-blind-batch-2.png",
+    "direction-blind-batch-3.png",
+    "direction-blind-batch-4.png"
+  ]
+}

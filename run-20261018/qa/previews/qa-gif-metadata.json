@@ -1,0 +1,169 @@
+[
+  {
+    "name": "idle",
+    "frames": 6,
+    "durations_ms": [
+      280,
+      110,
+      110,
+      140,
+      140,
+      320
+    ],
+    "loop": 0
+  },
+  {
+    "name": "running-right",
+    "frames": 8,
+    "durations_ms": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ],
+    "loop": 0
+  },
+  {
+    "name": "running-left",
+    "frames": 8,
+    "durations_ms": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ],
+    "loop": 0
+  },
+  {
+    "name": "waving",
+    "frames": 4,
+    "durations_ms": [
+      140,
+      140,
+      140,
+      280
+    ],
+    "loop": 0
+  },
+  {
+    "name": "jumping",
+    "frames": 5,
+    "durations_ms": [
+      140,
+      140,
+      140,
+      140,
+      280
+    ],
+    "loop": 0
+  },
+  {
+    "name": "failed",
+    "frames": 8,
+    "durations_ms": [
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      240
+    ],
+    "loop": 0
+  },
+  {
+    "name": "waiting",
+    "frames": 6,
+    "durations_ms": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      260
+    ],
+    "loop": 0
+  },
+  {
+    "name": "running",
+    "frames": 6,
+    "durations_ms": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ],
+    "loop": 0
+  },
+  {
+    "name": "review",
+    "frames": 6,
+    "durations_ms": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      280
+    ],
+    "loop": 0
+  },
+  {
+    "name": "look-loop",
+    "frames": 16,
+    "durations_ms": [
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180
+    ],
+    "loop": 0
+  },
+  {
+    "name": "idle-jump-idle",
+    "frames": 17,
+    "durations_ms": [
+      280,
+      110,
+      110,
+      140,
+      140,
+      320,
+      140,
+      140,
+      140,
+      140,
+      280,
+      280,
+      110,
+      110,
+      140,
+      140,
+      320
+    ],
+    "loop": 0
+  }
+]

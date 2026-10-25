@@ -1,0 +1,27 @@
+{
+  "approved": true,
+  "reviewer": "/root/d_restore_b_verify",
+  "independent_RGBA_verification": true,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "exact_scope_checks": {
+    "thinking_row_matches_approved_A": true,
+    "all_other_rows_match_original_B": true,
+    "all16_look_cells_match_original_B": true,
+    "both_source_expected_sha256": true
+  },
+  "metadata": {
+    "id": "danjeolha",
+    "displayName": "단절하",
+    "spriteVersionNumber": 2
+  },
+  "restore_proof_ok": true,
+  "validation_ok": true,
+  "prior_direction_QA_ok": true,
+  "prior_arms_QA_approved": true,
+  "final_sha256": "755b94fb6f3bf9e6ef0debda6310d357f5c42e7297cab6044261ee19a175b252",
+  "issues": [],
+  "mutations_by_reviewer": false
+}

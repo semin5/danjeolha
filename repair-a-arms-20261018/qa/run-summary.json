@@ -1,0 +1,102 @@
+{
+  "ok": true,
+  "status": "complete",
+  "pet_id": "danjeolha",
+  "display_name": "단절하",
+  "user_request": "A 방식으로 바꿔주고 생각하는 모션때 팔이 안보여",
+  "package": "C:/Users/semin5/.codex/pets/danjeolha",
+  "spriteVersionNumber": 1,
+  "dimensions": [
+    1536,
+    1872
+  ],
+  "standard_states": 9,
+  "standard_frames": 57,
+  "look_direction_count": 0,
+  "A_choice": "Previously offered A: preserve original standard-state hairstyle/art, remove16direction pointer-follow look mode.",
+  "format_override": "Existing-pet downgrade explicitly requested by user; v2-only new-creation requirements are not applicable to selected nine-state v1.",
+  "spritesheet": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/final/spritesheet.webp",
+  "final_sha256": "FE87A44CB05E54839FBAB8D33EC0FBFDA1DB4ED63DAB985E3B7444F6B3191019",
+  "repair": {
+    "state": "running",
+    "purpose": "stationary thinking",
+    "frames": 6,
+    "cause": "Overlapping supporting arm in old frames1,2,4 became unreadable at pet size.",
+    "fix": "One thinking hand at chin/temple, opposite complete arm visibly atside withhand belowcuff, in every frame.",
+    "exact_two_arms_and_hands_all_frames": true,
+    "durations_ms": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ],
+    "loop_period_ms": 820
+  },
+  "preservation": {
+    "other_states": 8,
+    "exact_RGBA_frames_preserved": 51,
+    "proof": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/preserved-state-pixels.json",
+    "other_pets_unchanged": true
+  },
+  "generation": {
+    "mode": "built-in imagegen",
+    "jobs": 1,
+    "retries": 0,
+    "prompt_file": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018-recovery/prompts/running-arm-repair.md",
+    "selected_source": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018-recovery/selected-generated-source.png",
+    "manifest": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018-recovery/imagegen-jobs.json"
+  },
+  "quality": {
+    "atlas_validator_pass": true,
+    "installed_validator_pass": true,
+    "chroma_cleanup_invocations": 1,
+    "chroma_scope": "Only newly generated six-frame thinking row. Already-cleaned51 preserved frames were NOT cleaned again.",
+    "independent_arm_gate": true,
+    "independent_all9_final_visual_review": true,
+    "repair_rows_remaining": [],
+    "review_limits": "Native ordered frames and actual decoded final GIF frame proofs with timing metadata; no live playback claimed.",
+    "accepted_warnings": [
+      "Eight existing-approved-atlas extraction notices accepted using exact51frame preservation proof and independent visual review."
+    ]
+  },
+  "validation": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/final/validation.json",
+  "installed_validation": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/installed-validation.json",
+  "chroma_despill": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/chroma-despill-repaired-row.json",
+  "review": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/review.json",
+  "final_visual_review": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/final-visual-review.json",
+  "arm_review": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/arm-preclean-review.json",
+  "contact_sheet": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/contact-sheet.png",
+  "thinking_preview": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/previews/running.gif",
+  "all_states_preview": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/previews/all-states.gif",
+  "backup": {
+    "path": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/backup",
+    "previous_spriteVersionNumber": 2,
+    "previous_sha256": "5B4F12C6A7946845B576DF46740C128DAB885EE3623F97B3AF076AE1CCA0D91D",
+    "recoverable": true
+  },
+  "installation": {
+    "installed": true,
+    "automatically_selected": false,
+    "existing_id_unchanged": true,
+    "installed_at": "2026-10-18T12:08:01Z",
+    "receipt": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/qa/install-receipt.json"
+  },
+  "cleanup": {
+    "ok": true,
+    "recoverable": true,
+    "deleted_material_files": false,
+    "recovery_directory": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018-recovery",
+    "moved_run_entries": 11,
+    "selected_generated_original_moved": true,
+    "original_user_avatar_untouched": true,
+    "B_backup_retained": true,
+    "optional_empty_source_directory_cleanup": "Not performed: cleanup command rejected by environment policy. The selected original was already moved recoverably; no material deletion occurred."
+  },
+  "timing": {
+    "first_recorded_clock_utc": "2026-10-18T12:00:15Z",
+    "completed_at_utc": "2026-10-18T12:08:36Z",
+    "elapsed_since_first_recorded_clock_seconds": 501
+  }
+}

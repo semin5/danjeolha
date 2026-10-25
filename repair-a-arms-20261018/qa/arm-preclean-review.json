@@ -1,0 +1,15 @@
+{
+  "approved": true,
+  "reviewer": "/root/d_thinking_arm_diagnosis",
+  "frames": [
+    {"frame":0,"pass":true,"evidence":"Two attached arms/hands; temple hand plus separated side hand."},
+    {"frame":1,"pass":true,"evidence":"Chin hand plus visible side arm; prior crossed-arm ambiguity resolved."},
+    {"frame":2,"pass":true,"evidence":"Head tilt retains both arms/hands; free arm at side; prior overlap resolved."},
+    {"frame":3,"pass":true,"evidence":"Eyes-closed thought pose retains two attached arms/hands."},
+    {"frame":4,"pass":true,"evidence":"Chin hand and complete side arm distinct; prior supporting-arm occlusion resolved."},
+    {"frame":5,"pass":true,"evidence":"Temple hand and side hand visible; no fused or extra limb."}
+  ],
+  "identity_scale_baseline": "Consistent across six frames",
+  "clipping_or_hard_failure": false,
+  "chroma_assessment": "Deferred to deterministic single cleanup and atlas validator."
+}

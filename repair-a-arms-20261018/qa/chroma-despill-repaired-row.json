@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "input": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\qa\\running-registered-preclean.png",
+  "output": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\qa\\running-cleaned.png",
+  "chroma_key": "#00FF00",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 11228,
+  "decontaminated_pixels": 9926,
+  "spill_suppressed_pixels": 11228,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c2": 2012,
+    "r0c1": 1898,
+    "r0c4": 1866,
+    "r0c5": 1843,
+    "r0c3": 1808,
+    "r0c0": 1801
+  },
+  "alpha_preserved": true
+}

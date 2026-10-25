@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "recoverable": true,
+  "deleted_material_files": false,
+  "recovery_directory": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018-recovery",
+  "moved_run_entries": 11,
+  "selected_generated_original_moved": true,
+  "original_user_avatar_untouched": true,
+  "B_backup_retained": true,
+  "optional_empty_source_directory_cleanup": "Not performed: cleanup command rejected by environment policy. The selected original was already moved recoverably; no material deletion occurred."
+}

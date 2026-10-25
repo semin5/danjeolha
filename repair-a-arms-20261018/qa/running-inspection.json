@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\frames",
+  "states": [
+    "running"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17093,
+          "bbox": [
+            31,
+            23,
+            161,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 4
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16888,
+          "bbox": [
+            33,
+            23,
+            163,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16562,
+          "bbox": [
+            39,
+            23,
+            165,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 12
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17069,
+          "bbox": [
+            33,
+            23,
+            162,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 4
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16854,
+          "bbox": [
+            33,
+            23,
+            162,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 13
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\semin5\\IdeaProjects\\danjeolha-pet\\repair-a-arms-20261018\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17080,
+          "bbox": [
+            33,
+            23,
+            163,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 5
+        }
+      ]
+    }
+  ]
+}

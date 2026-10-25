@@ -1,0 +1,7 @@
+Edit the attached complete eight-pose strip as one coherent family. Its faces now aim to the correct image-RIGHT side, and its up-to-down pitch, physical scale, registration, eight separated bodies and frame order pass. Protect the current face/nose/eye orientation and all body poses; do not reverse them again.
+
+Restore ONLY the canonical HAIRSTYLE in every pose: full silver-lavender bangs and long side fringe on IMAGE-LEFT of the face; tiny yellow clip and long wavy ponytail on IMAGE-RIGHT. The ponytail drapes over the IMAGE-RIGHT shoulder IN FRONT of the right sleeve, like the large successful RIGHT prototype in the right-priority cardinal reference. It must not hang on image-left or behind the left shoulder. The successful reference demonstrates right-facing face AND right-draped hair together.
+
+Keep all current RIGHT-facing exposed faces, facial volume, eyes/lids, up/down pitch, torso, yellow chest star, hands and planted bare feet unchanged. Do not apply a global mirror. This is a hairstyle restoration on an already correct-direction whole strip. Re-create all eight together; never paste isolated cells or perform local procedural raster edits.
+
+Pose order remains UP, UP-RIGHT, UP-RIGHT, UP-RIGHT, RIGHT, DOWN-RIGHT, DOWN-RIGHT, DOWN-RIGHT. Exact eight complete separated bodies on pure #00FF00, stable size and baseline, no overlap, clipping, labels, guide pixels, shadows, new accessories or detached effects.

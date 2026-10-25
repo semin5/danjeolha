@@ -1,0 +1,122 @@
+[
+  {
+    "state": "idle",
+    "frames": 6,
+    "durations_ms": [
+      280,
+      110,
+      110,
+      140,
+      140,
+      320
+    ],
+    "loop": 0
+  },
+  {
+    "state": "running-right",
+    "frames": 8,
+    "durations_ms": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ],
+    "loop": 0
+  },
+  {
+    "state": "running-left",
+    "frames": 8,
+    "durations_ms": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ],
+    "loop": 0
+  },
+  {
+    "state": "waving",
+    "frames": 4,
+    "durations_ms": [
+      140,
+      140,
+      140,
+      280
+    ],
+    "loop": 0
+  },
+  {
+    "state": "jumping",
+    "frames": 5,
+    "durations_ms": [
+      140,
+      140,
+      140,
+      140,
+      280
+    ],
+    "loop": 0
+  },
+  {
+    "state": "failed",
+    "frames": 8,
+    "durations_ms": [
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      240
+    ],
+    "loop": 0
+  },
+  {
+    "state": "waiting",
+    "frames": 6,
+    "durations_ms": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      260
+    ],
+    "loop": 0
+  },
+  {
+    "state": "running",
+    "frames": 6,
+    "durations_ms": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ],
+    "loop": 0
+  },
+  {
+    "state": "review",
+    "frames": 6,
+    "durations_ms": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      280
+    ],
+    "loop": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "primary_generation_skill": "imagegen",
+  "mode": "built-in",
+  "jobs": [
+    {
+      "id": "running-arm-repair",
+      "kind": "row-strip-edit",
+      "status": "complete",
+      "prompt_file": "prompts/running-arm-repair.md",
+      "input_images": [
+        {
+          "path": "references/running-before.png",
+          "role": "edit target: existing thinking strip"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity"
+        },
+        {
+          "path": "references/original-avatar.png",
+          "role": "original MapleStory avatar"
+        },
+        {
+          "path": "references/running-layout.png",
+          "role": "invisible6frame layout guide"
+        }
+      ],
+      "source_path": "C:/Users/semin5/.codex/generated_images/01a14ee3-ba6c-71b1-ac9f-a7c042a16ffe/exec-c760eb98-7ff0-4048-94fa-b53aebbf97df.png",
+      "output_path": "decoded/running.png",
+      "completed_at": "2026-10-18T12:05:01Z",
+      "qa_note": "Exactly six full-body poses. Independent native check confirms two attached arms and two readable hands every frame; old crossed-arm occlusion resolved.",
+      "component_validation": "qa/running-inspection.json",
+      "semantic_approval": "qa/arm-preclean-review.json"
+    }
+  ]
+}

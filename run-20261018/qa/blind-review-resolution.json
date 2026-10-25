@@ -1,0 +1,39 @@
+{
+  "accepted_minor": true,
+  "major_or_cardinal_override": false,
+  "blind_validation_ok": true,
+  "reviewer": "/root/d_final_qa_b",
+  "issues": [
+    {
+      "directions": [
+        "045",
+        "292.5"
+      ],
+      "evidence": "One reviewer ambiguous vertical; other two up. Strict majority and labeled full loop agree with intended quadrants.",
+      "severity": "minor",
+      "accepted": true
+    },
+    {
+      "transitions": [
+        "157.5→180",
+        "337.5→000"
+      ],
+      "evidence": "Explicit user B authorizes facing-dependent hairstyle reversal. Foot center stays83.5–84.5 and bottom202.",
+      "severity": "authorized_style_choice",
+      "accepted": true
+    },
+    {
+      "transition": "247.5→270",
+      "evidence": "Stronger head pitch change; normal-size ordered decoded loop has no reversal or body translation.",
+      "severity": "minor",
+      "accepted": true
+    }
+  ],
+  "proofs": [
+    "qa/user-style-choice.json",
+    "qa/direction-semantics.json",
+    "qa/look-continuity.json",
+    "qa/previews/qa-decoded-look.png",
+    "qa/previews/qa-seams-2x.png"
+  ]
+}

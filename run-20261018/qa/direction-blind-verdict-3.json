@@ -1,0 +1,96 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A face/eyes left; B right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A cheek/gaze left; B right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A eyes/nose right; B face left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A face projects left; B right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered face/eyes left; B right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A visible face opens right; B left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A bowed face turns left; B right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes low/bangs/tucked chin; B face/eyes upward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A uplifted face/raised gaze; B bowed face/eyes low."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A face/eyes downward; B open face/gaze slightly upward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A mildly bowed/low eyes; B eyes/chin raised."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A tucked chin/low eyes; B strongly upward face."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A eyes/face lift; B lowered face looks down."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A bowed face/eyes down; B face/eyes slightly upward."
+    }
+  ],
+  "reviewer": "/root/d_blind_final_3",
+  "isolated": true,
+  "input_files": [
+    "direction-blind-batch-1.png",
+    "direction-blind-batch-2.png",
+    "direction-blind-batch-3.png",
+    "direction-blind-batch-4.png"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "approved": true,
+  "reviewer": "/root/d_a_arms_final_qa",
+  "stage": "final",
+  "final_file": "C:/Users/semin5/IdeaProjects/danjeolha-pet/repair-a-arms-20261018/final/spritesheet.webp",
+  "final_sha256": "FE87A44CB05E54839FBAB8D33EC0FBFDA1DB4ED63DAB985E3B7444F6B3191019",
+  "state_verdicts": {
+    "idle": "pass",
+    "running-right": "pass",
+    "running-left": "pass",
+    "waving": "pass",
+    "jumping": "pass",
+    "failed": "pass",
+    "waiting": "pass",
+    "running": "pass: stationary thinking, two attached visible arms/hands every frame",
+    "review": "pass: preserved bow/inspection, distinct from thinking"
+  },
+  "thinking_frames": [
+    {
+      "frame": 0,
+      "pass": true,
+      "evidence": "Temple hand plus attached side arm and hand below cuff."
+    },
+    {
+      "frame": 1,
+      "pass": true,
+      "evidence": "Chin hand plus attached side arm and hand below cuff."
+    },
+    {
+      "frame": 2,
+      "pass": true,
+      "evidence": "Chin hand/head tilt plus attached side arm and hand below cuff."
+    },
+    {
+      "frame": 3,
+      "pass": true,
+      "evidence": "Temple hand/blink plus attached side arm and hand below cuff."
+    },
+    {
+      "frame": 4,
+      "pass": true,
+      "evidence": "Chin hand plus attached side arm and hand below cuff."
+    },
+    {
+      "frame": 5,
+      "pass": true,
+      "evidence": "Temple hand plus attached side arm and hand below cuff."
+    }
+  ],
+  "geometry_continuity": "Consistent identity, proportions, lavender hairstyle, navy star outfit, palette. Fixed baseline, no visible clipping, size pop or holes; restrained stationary thinking loop.",
+  "thinking_timing": {
+    "state": "running",
+    "durations_ms": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ],
+    "total_ms": 820,
+    "loop": 0
+  },
+  "preservation": {
+    "states": 8,
+    "frames": 51,
+    "exact_RGBA_match": true,
+    "dimensions": [
+      1536,
+      1872
+    ],
+    "spriteVersionNumber": 1
+  },
+  "accepted_warnings": [
+    "Existing-approved-atlas extraction notices for preserved rows accepted with exact51frame pixel proof."
+  ],
+  "repair_rows": [],
+  "review_method": "Native-size frame sequences and actual decoded final GIF frames plus timing metadata; no live playback claimed.",
+  "reviewed_artifacts": [
+    "qa/thinking-native.png",
+    "qa/thinking-gif-frames.png",
+    "qa/states-native-1.png",
+    "qa/states-native-2.png",
+    "qa/states-native-3.png",
+    "qa/gif-metadata.json",
+    "final/validation.json",
+    "qa/review.json",
+    "qa/preserved-state-pixels.json",
+    "qa/chroma-despill-repaired-row.json"
+  ],
+  "report_correction": "Reviewer reconciled original typo: thinking is row7/running with820ms loop; row8/review is separate bow/inspection."
+}
